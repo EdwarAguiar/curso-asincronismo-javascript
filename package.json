@@ -1,0 +1,24 @@
+{
+  "name": "curso-asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo en JavaScript",
+  "main": "index.js",
+  "scripts": {
+   "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwarAguiar/curso-asincronismo-javascript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Edwar Aguiar",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/EdwarAguiar/curso-asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/EdwarAguiar/curso-asincronismo-javascript#readme"
+}

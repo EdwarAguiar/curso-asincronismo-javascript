@@ -1,10 +1,11 @@
 {
-  "name": "curso-asincronismo-javascript",
+  "name": "api",
   "version": "1.0.0",
-  "description": "Trabajar con asincronismo en JavaScript",
+  "description": "trabajar con asincronismo en JavaScript",
   "main": "index.js",
-  "scripts": {
-   "callback": "node src/callback/index.js"
+    "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/EdwarAguiar/curso-asincronismo-javascript/issues"
   },
-  "homepage": "https://github.com/EdwarAguiar/curso-asincronismo-javascript#readme"
+  "homepage": "https://github.com/EdwarAguiar/curso-asincronismo-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
